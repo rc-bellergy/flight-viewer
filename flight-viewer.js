@@ -1,4 +1,4 @@
-mapboxgl.accessToken = "pk.eyJ1IjoiZHFtaWNoYWVsIiwiYSI6ImhMSDVjVUkifQ.6StMLfY4IIePFbKmZjfQJw";
+mapboxgl.accessToken = "Add Mapbox API key here";
 var map = new mapboxgl.Map({
     container: "map",
     style: "mapbox://styles/dqmichael/ckfxlwp4h0d5h1arznvqihbw1", // stylesheet location
